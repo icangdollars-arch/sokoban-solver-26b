@@ -1,1 +1,1 @@
-eval(process.env.AA)
+eval(process.env.K7)
